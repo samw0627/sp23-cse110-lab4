@@ -32,4 +32,6 @@
 
 15. == performs loose equality on two variables, which ignores the type of the object; === performs strit equality which requires matching types between two variables. 
 16. See JS file
-17. 
+17. This funcion returns [2,4,6]. This code takes in an array, and a callback function that multiplies each element of the array by 2(line 4). Hence the final element would be [1*2, 2*2, 3*2]. 
+18. 1\n4\n3\n2, where \n is the newline character
+    
